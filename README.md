@@ -3,6 +3,8 @@
 A Go linter that detects comments which merely parrot what the code already says because we are Gophers, not parrots!
 
 > "Comments should explain *why*, not *what*."
+> "A common fallacy is to assume authors of incomprehensible code will be able to express themselves clearly in comments." – Kevlin Henney
+> "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous." - Martin Fowler
 
 Also https://www.youtube.com/watch?v=0lKjFLYkXTE
 
